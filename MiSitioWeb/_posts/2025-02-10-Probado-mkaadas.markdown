@@ -26,7 +26,7 @@ Imagen de un perro hpta [Perrito HPTA].
 [Ig misterioso]: https://www.instagram.com/lis_4ndru/
 [Perrito]: https://media.istockphoto.com/id/513133900/es/foto/oro-retriever-sentado-en-frente-de-un-fondo-blanco.jpg?s=612x612&w=0&k=20&c=0lRWImB8Y4p6X6YGt06c6q8I3AqBgKD-OGQxjLCI5EY=
 [Perrito HPTA]: https://www.google.com/search?sca_esv=c8c50fbbd33c26eb&sxsrf=AHTn8zq9jmiO2IiQShH8Vn4z8IOpV1t0ZA:1739327003429&q=espejo&udm=2&fbs=ABzOT_BnMAgCWdhr5zilP5f1cnRvIBPU3G1U0YxsIOUzbNb8nkm8fCiBLdpYJkqEP4cFUzg2P9CS8jXtHxOXO4R-r3FiMJzoAqi8LawB2VraDk9D2zDsrxxpSejK8-b-uJd9QFx4YRJXWiFA-lf-jnwLv3mIrPdIeeo01V5uNUS4ykqND_n0s6AZML9tZ7AHa0si1fwaGqFUYSRIbkjod6_cSuCWnMxjMw&sa=X&ved=2ahUKEwj737-Bir2LAxVgQzABHQ2GEpgQtKgLegQIGxAB&biw=1920&bih=951&dpr=1#vhid=GX_0uSn5_7E6jM&vssid=mosaic
-[Mas informacion]: http://localhost:4000/MiSitioWeb/Sobre%20mi/
+[Mas informacion]: https://exodoxa.github.io/ExoDoxa/Sobre%20mi/
 Ya que pasaste por aqui ve a mas informacion ya que estas [Mas informacion]
 
 
