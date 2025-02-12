@@ -116,7 +116,7 @@ preview-img: https://assets.boconcept.com/b1c0b22e-ef01-4d5b-af4d-ad43018a1f5b/1
       </iframe>
     </div>
 
-    <p>Si te mamaste regresa a Home ya que estás <a href="https://exodoxa.github.io">Regresar</a></p>
+    <p>Si te mamaste regresa a Home ya que estás <a href="https://exodoxa.github.io/ExoDoxa/">Regresar</a></p>
   </div>
 
 </div>
