@@ -3,7 +3,7 @@ email: Saposhptas
 description: >-
   Hoy en la tarde se quemo el arroz y quedo feo, de seguro es por culpa de petro
 baseurl: "/ExoDoxa" # the subpath of your site, e.g. /blog
-url: "https://exodoxa.github.io" # http://localhost:4000/MiSitioWeb/
+url: "https://exodoxa.github.io/ExoDoxa/" # http://localhost:4000/MiSitioWeb/
 twitter_username: Estamonda la quito despues que asco 
 github_username:  ExoDoxa
 
