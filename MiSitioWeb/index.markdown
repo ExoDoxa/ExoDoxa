@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bienvenido a ExoDoxa
+title: ExoDoxa
 
 ---
 
