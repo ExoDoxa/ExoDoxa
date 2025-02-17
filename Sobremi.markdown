@@ -4,9 +4,9 @@ title: Sobre mi
 permalink: /Sobre mi/
 ---
 
-Y bueno que mas puedo decir de mi, si tas aqui ya me conoces sapa 30 hpta, no seas tan sapo.
+Y bueno que mas puedo decir de mi, si tas aqui ya me conoces por eso te presumo esta pg.
 
-Pero si igualmente estas aqui y quieres conocerme mas es quiza es pq ¿me quieres?
+Pero si igualmente estas aqui y quieres conocerme mas es quiza es pq ¿me quieres? :c
 
 [si]
 
