@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Ninguna
 title:  "HolAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA primer intento"
 date:   2025-02-11 18:43:14 -0500
 categories: Aqui es para probar las paginas
