@@ -7,7 +7,7 @@ categories: Aqui es para probar las paginas
 ---
 
 
-ESTE TEXTO, lo hice en dos minuticos pa, vea que chimba, que elegancia la de fɾan̟.sja, sisa fɾan̟.sja no francia ni fragcia, pq fɾan̟.sja es la forma fonetica de pronunciar, 
+ESTE TEXTO, lo hice en dos minuticos pa, vea que chimba, que elegancia la de fɾan̟.sja, sisa fɾan̟.sja no francia ni fragcia, pq fɾan̟.sja es la forma fonológica de pronunciar, 
 dato curioso no? como que has gastado al rededor de diez segundos, once o doce si eres pero lentiiiisimo, pero creo que no es el caso, 
 de todas formas gracias por darme quince segundos de tu tiempo :3
 
